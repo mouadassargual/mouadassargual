@@ -2,7 +2,7 @@
 
 🎓 Master's Student in **Embedded Artificial Intelligence**  
 🚀 Digital Entrepreneur & Productivity Enthusiast  
-📍 Based in Agadir, Morocco
+📍 Based in Morocco
 
 ---
 
