@@ -1,56 +1,34 @@
-# 👋 Hey there, I'm Mouad Assargual
+# Mouad Assargual
 
-🎓 Master's Student in **Embedded Artificial Intelligence**  
-🚀 Digital Entrepreneur & Productivity Enthusiast  
-📍 Based in Morocco
+AI & Data · Web Development · Digital Project Management
+Agadir, Morocco
 
----
+I hold an MSc in Embedded Artificial Intelligence. I build AI and data applications, and I have several years of experience leading web and digital projects for institutions and organizations, from planning to delivery.
 
-## 🧠 About Me
+## Skills
 
-I'm a passionate technologist blending AI with real-world impact. With a background in digital communications, I’ve worked with politicians, events, and brands to drive engagement and results. Today, I'm focused on building a future where **AI meets purpose**, and tools are **simple, scalable, and smart**.
+**AI & Data:** Python, scikit-learn, PyTorch, TensorFlow, OpenCV, YOLO, LangChain (RAG)
+**Web:** HTML, CSS, JavaScript, PHP, Laravel, WordPress, FastAPI
+**Tools:** Git, Linux, Jupyter
+**Project management:** Scrum, Kanban, ClickUp, Notion, Trello
 
-I'm currently pursuing my Master's in Embedded AI and experimenting at the intersection of **machine learning**, **edge computing**, and **human-centric design**.
+Currently learning: Docker, PostgreSQL, Kafka.
 
----
+## Experience
 
-## 🛠️ Projects & Interests
+- **Digital lead** for an agency working with national institutions (2025 to 2026). Ran the full digital side of its projects and media productions.
+- **Co-founder** of two digital agencies (2022 to 2025). Led web projects and digital communication strategies for local authorities, events and businesses.
 
-- 🤖 Embedded AI systems with real-time edge processing  
-- 🧰 Smart productivity systems using Notion & automations  
-- 🧠 Second Brain & PKM (Personal Knowledge Management)  
-- 📈 Digital growth strategies & content systems  
-- 🧩 Building communities & sharing transparent journeys  
+## Community
 
----
+- Organizer of the Smart Cities & AI Conference (2025), FSA Aït Melloul.
+- Co-organizer of ISAS'25, Intelligent Systems Autumn School (2025), FSA Aït Melloul.
 
-## 🔧 Tech & Tools
+## Education
 
-- Languages: `Python`, `C/C++`, `Embedded C`, `JavaScript`
-- AI & ML: `TensorFlow`, `PyTorch`, `Scikit-learn`
-- Dev Tools: `Git`, `VS Code`, `Jupyter`
-- Workflow: `Notion`, `Figma`, `Zapier`, `ChatGPT`
+MSc in Embedded Artificial Intelligence, Ibn Zohr University, Agadir.
 
----
+## Contact
 
-## 🧭 Core Beliefs
-
-- 🧩 Simplicity beats complexity  
-- ⚙️ Systems > motivation  
-- 🧱 Build in public  
-- ⏳ 80/20 everything  
-- 🌍 Tech should serve humans
-
----
-
-## 📬 Let's Connect
-
-- 🐦 [Twitter](https://twitter.com/mouadassargual) – Thoughts, projects & daily insights  
-- 💼 [LinkedIn](https://www.linkedin.com/mouadassargual) – Let's build and grow  
-- 🌐 [Website / Blog](#) – Coming soon  
-
----
-
-**"No brand. Just me, the vision, and ready to build."**  
-Let’s shape the future of Moroccan tech — together.
-
+- LinkedIn: [linkedin.com/in/mouadassargual](https://www.linkedin.com/in/mouadassargual/)
+- Email: moadassargal@gmail.com
